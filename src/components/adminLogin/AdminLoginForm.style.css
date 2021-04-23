@@ -1,8 +1,11 @@
 .adminLoginFrom{
     box-sizing: border-box;
-    /* background: black; */
     display: flex;
     justify-content: center;
     align-items:center;
+    height: 100vh;
+}
 
+.form-card{
+    width: 450px;
 }
