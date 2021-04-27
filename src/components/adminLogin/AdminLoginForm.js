@@ -31,7 +31,7 @@ const AdminLoginForm = () => {
       <Card className="form-card p-4">
         <Form onSubmit={handleOnSubmit}>
           <Form.Group controlId="formBasicEmail">
-            <Form.Label>Email address</Form.Label>
+            <Form.Label>Enter Email address</Form.Label>
             <Form.Control
               name="email"
               onChange={handleOnChange}
